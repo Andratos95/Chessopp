@@ -1,4 +1,7 @@
 Chessopp is a software that can be used to study openings and practice them with spaced repetition.
+
+It can be founf at this URL: https://andratos95.github.io/Chessopp/
+
 It is currently optimized for usage with a mouse, as it uses drag and drop functionality to move pieces.
 The program is subdivided in 3 tabs: Editor, Library and Practice.
 
